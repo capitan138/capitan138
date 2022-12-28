@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @capitan138
-- 👀 I’m interested in learn all I can about became a developer
+- 👋 Hi, I’m @jjorquera.dev
+- 👀 I’m interested in learn all I can about to became a developer
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on a new point of view
+- 💞️ I’m looking for opportunities
 - 📫 How to reach me ...
 
 <!---
